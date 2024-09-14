@@ -1,4 +1,4 @@
-price (euros),area (m²),years of construction,have a balcony,have a garage,rating,city
+price,area,years of construction,balcony,garage,rating,city
 718458,96.3077673233747,2023,1,0,5,Marseille
 234271,148.4114580582037,2005,1,0,1,Paris
 819375,136.92583552070022,2015,0,1,3,Marseille
