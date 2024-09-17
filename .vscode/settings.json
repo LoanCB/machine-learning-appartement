@@ -4,5 +4,5 @@
     "titleBar.activeBackground": "#6E2A26",
     "titleBar.activeForeground": "#FEFCFC"
   },
-  "cSpell.words": ["Matplop", "Numpy", "RSME"]
+  "cSpell.words": ["Matplop", "Numpy", "rmse", "RSME"]
 }
