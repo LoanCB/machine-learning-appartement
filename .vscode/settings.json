@@ -4,5 +4,18 @@
     "titleBar.activeBackground": "#6E2A26",
     "titleBar.activeForeground": "#FEFCFC"
   },
-  "cSpell.words": ["Matplop", "Numpy", "rmse", "RSME"]
+  "cSpell.words": [
+    "airbnb",
+    "astype",
+    "dtype",
+    "fastapi",
+    "isin",
+    "loguru",
+    "Matplop",
+    "Numpy",
+    "pydantic",
+    "rmse",
+    "RSME",
+    "uvicorn"
+  ]
 }
