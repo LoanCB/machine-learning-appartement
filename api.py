@@ -141,7 +141,7 @@ async def predict_category(data: PredictionCleaning):
         raise HTTPException(
             status_code=400, detail="Le modèle n'est pas encore entraîné. Veuillez entraîner le modèle d'abord.")
 
-    # Prédire le prix
+    # Prédire si il y a des frais de ménage
     cities = prepare_city(data.city)
     cities.insert(0, data.price_by_night)
     X_new = np.array([cities,])
